@@ -1,0 +1,16 @@
+class Npc 
+{
+	
+}
+
+
+public class NpcUse
+{
+
+	public static void main(String[] args)
+	{
+		
+
+	}
+
+}
